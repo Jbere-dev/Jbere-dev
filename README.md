@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jbere-dev
-- 👀 I’m interested in ...
+- 👀 I’m interested in data science
 - 🌱 I’m currently learning data science & analytics
 - 💞️ I’m looking to collaborate on data analysis
 - 📫 How to reach me realjbere@gmail.com
